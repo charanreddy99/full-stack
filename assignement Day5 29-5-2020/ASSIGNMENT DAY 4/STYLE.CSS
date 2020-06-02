@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
+
+.part1{
+    color: rgb(51, 105, 206);
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
+.part2{
+    color: crimson;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+}
