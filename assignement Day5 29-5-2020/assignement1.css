@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+}
+ul{
+    list-style-type: none;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgb(66, 160, 160);
+}
+ul a{
+    text-align: center;
+    box-sizing: border-box;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    margin-left:90px;
+    margin-right: 60px;
+}
+.intro{
+    border: 2px solid black;
+    height: 150px;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.one{
+	width: 9%;
+	height: 9%;
+	border: 1px solid black;
+	position: relative;
+    float: left;
+    margin: 5px;
+}
+.two{
+	width: 1220px;
+	height: 148px;
+	border: 2px solid black;
+	position: relative;
+	float: left;
+}
+
+.three{
+	width: 9%;
+	height: 9%;
+	border: 1px solid black;
+	position: relative;
+    float: right;
+    margin: 5px;
+}
